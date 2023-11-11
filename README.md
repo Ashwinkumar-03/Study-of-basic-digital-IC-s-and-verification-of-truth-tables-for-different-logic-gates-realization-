@@ -85,10 +85,12 @@ endmodule
 ## Output:
 ## RTL:
 ![op](rtl.jpg)
+
 ## truth table
 ![op](tt.jpg)
+
 ## waveform
-![op](wave.jpg)
+![wave](https://github.com/Ashwinkumar-03/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118663725/c08be71d-ab59-47a2-bdfb-4f6601aafa59)
 
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
